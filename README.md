@@ -7,4 +7,4 @@ AI-driven framework for analyzing corporate core competencies based on cultural 
 
 このルールの根底にある「他者の卓越性を認める審美眼」と「多層的コンピタンス・マトリクス」の哲学と概念的背景については、以下の記事を参照してください。
 
-[企業競争力の深層モデル「プロダクト・シンセシス」：多層的コンピタンスと他者承認の戦略論]([Note記事のURLをここに配置](https://note.com/bunshou_kijin/n/n46f51932fb7a))
+[企業競争力の深層モデル「プロダクト・シンセシス」：多層的コンピタンスと他者承認の戦略論(https://note.com/bunshou_kijin/n/n46f51932fb7a)
